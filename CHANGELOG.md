@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/jorfermo/trunk-st-release-please/compare/v1.0.1...v1.1.0) (2024-07-17)
+
+
+### Features
+
+* nice readme ([bfe063f](https://github.com/jorfermo/trunk-st-release-please/commit/bfe063f802de06f26fe54e77c72f020d88d53268))
+
+
+### Bug Fixes
+
+* apply hotfix ([510a984](https://github.com/jorfermo/trunk-st-release-please/commit/510a98471f6888591ef7f5584b61103ecdc9c1fa))
+
 ## [1.0.1](https://github.com/jorfermo/trunk-st-release-please/compare/v1.0.0...v1.0.1) (2024-07-12)
 
 
