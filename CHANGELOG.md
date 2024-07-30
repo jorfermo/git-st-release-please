@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.0.0](https://github.com/jorfermo/git-st-release-please/compare/v1.2.0...v2.0.0) (2024-07-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* dummy commit feature 1
+
+### Features
+
+* dummy commit feature 1 ([79e54cd](https://github.com/jorfermo/git-st-release-please/commit/79e54cd23d1f9cc5a9c574e126971502597b2b57))
+* dummy commit feature 1 ([dcf076a](https://github.com/jorfermo/git-st-release-please/commit/dcf076a95066f6f9384577455ac8d90175c67cdf))
+
+
+### Bug Fixes
+
+* dummy commit fix 1 ([eeb0e7a](https://github.com/jorfermo/git-st-release-please/commit/eeb0e7a6e1fdda519e56219f42e1831ad9a2d020))
+
 ## [1.2.0](https://github.com/jorfermo/trunk-st-release-please/compare/v1.1.0...v1.2.0) (2024-07-17)
 
 
